@@ -2,6 +2,11 @@
 
 This project focuses on the design and implementation of a **relational database system** for managing and analyzing movie data. Using **SQL** and **Python**, this project demonstrates how structured storage and query logic can uncover meaningful insights from a complex dataset.
 
+## My Contributions
+
+- Contributed to writing SQL queries for data retrieval and filtering  
+- Created Python visualizations showing score distributions, yearly gross trends, and budget vs. revenue patterns
+
 ## Dataset
 
 The dataset was sourced from Kaggle and includes attributes such as:
